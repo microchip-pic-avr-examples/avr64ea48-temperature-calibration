@@ -1,6 +1,7 @@
 # Untracked files in MPLABX projects
+/**/.generated_files/*
 /**/build/*
+/**/debug/*
+/**/dist/*
 /**/nbproject/*
 !/**/nbproject/*.xml
-/**/dist/*
-/**/.generated_files/*
